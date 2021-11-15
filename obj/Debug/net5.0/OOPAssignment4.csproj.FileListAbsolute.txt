@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\OOPAssignment4\bin\Debug\net5.0\OOPAssignment4.exe
+C:\Users\danie\source\repos\OOPAssignment4\bin\Debug\net5.0\OOPAssignment4.deps.json
+C:\Users\danie\source\repos\OOPAssignment4\bin\Debug\net5.0\OOPAssignment4.runtimeconfig.json
+C:\Users\danie\source\repos\OOPAssignment4\bin\Debug\net5.0\OOPAssignment4.runtimeconfig.dev.json
+C:\Users\danie\source\repos\OOPAssignment4\bin\Debug\net5.0\OOPAssignment4.dll
+C:\Users\danie\source\repos\OOPAssignment4\bin\Debug\net5.0\ref\OOPAssignment4.dll
+C:\Users\danie\source\repos\OOPAssignment4\bin\Debug\net5.0\OOPAssignment4.pdb
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\OOPAssignment4.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\OOPAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\OOPAssignment4.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\OOPAssignment4.AssemblyInfo.cs
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\OOPAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\OOPAssignment4.dll
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\ref\OOPAssignment4.dll
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\OOPAssignment4.pdb
+C:\Users\danie\source\repos\OOPAssignment4\obj\Debug\net5.0\OOPAssignment4.genruntimeconfig.cache
